@@ -1,0 +1,14 @@
+{
+  "name": "rollup-plugin-alpine",
+  "version": "0.0.1",
+  "description": "A rollup plugin to bundle an Alpine plugin.",
+  "main": "lib/index.js",
+  "author": "Zero Projects, Inc",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "alpine": "^0.0.1",
+    "dot": "^1.1.2",
+    "fs-extra": "^7.0.1",
+    "pkg-up": "^2.0.0"
+  }
+}
